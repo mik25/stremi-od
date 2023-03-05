@@ -6,7 +6,7 @@ const manifest = {
   "version": "1.0.0",
   "name": "Stremi-OD",
   "description": "Movie & TV Streams from Open Directories",
-  "logo": "https://mikmc-od.surge.sh/hank.png",
+  "logo": "https://myimagedump.surge.sh/open.png",
   "resources": ["stream"],
   "types": ["movie", "series"],
   "idPrefixes": ["tt"],
